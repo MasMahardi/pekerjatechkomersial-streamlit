@@ -10,8 +10,9 @@ st.image("assets/pic_1.jpg",
          use_column_width="auto")
 
 st.markdown(
-    "Hi guys, this is me random guys trying to market myself as tech worker with skill set analytics, geospatial, and python."
-    " I'm trying to shift myself in remote worker world. Let's take look at my journey one by one through this my personal blog ya."
+    "Hi guys, my name is Mahardi, I'm just ordinary guy who has special interest on Geospatial Tech something."
+    " I have been workin in Geospatial Indsutry for almost 10 years with various role and responsibillity such as analyst, business development, and project management. Currently working on produt operations stufff."
+    " I'm trying to shift myself in remote worker world, especially in Geospatial Data analyst role. Let's take look at my journey one by one through this my personal blog ya."
     " See you when I see you!!"
 )
 SOCIAL_MEDIA = {
